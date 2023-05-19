@@ -3,7 +3,7 @@ import Chatbox from '../Components/Chatbox';
 import ProfileMenu from '../Components/ProfileMenu';
 import Sidebar from '../Components/Sidebar';
 import Profile from '../Components/Profile';
-import '../css/userInfo.css';
+import '../style/userInfo.css';
 
 export default function UserInfo({ selectedId, setSelectedId }) {
 	const user1 = selectedId - 1 === 0 ? 1 : 0;

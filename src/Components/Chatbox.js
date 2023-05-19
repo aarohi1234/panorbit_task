@@ -6,7 +6,7 @@ import {
 } from '@mui/icons-material';
 import React, { useState, useRef, useEffect } from 'react';
 import EachChat from './EachChat';
-import '../css/chatbox.css';
+import '../style/chatbox.css';
 
 
 

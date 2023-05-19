@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import User from '../Components/User';
-import '../css/home.css';
+import '../style/home.css';
 
 export default function Home({ data, setData, setSelectedId }) {
 	

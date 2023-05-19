@@ -1,6 +1,6 @@
 import React from 'react';
 import MiniDetails from './UserDetails';
-import '../css/profile.css';
+import '../style/profile.css';
 import mapImage from '../Images/map.png';
 
 export default function Profile({ userData, selectedId }) {

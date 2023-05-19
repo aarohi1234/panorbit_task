@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import '../css/profileMenu.css';
+import '../style/profileMenu.css';
 
 const HandleOutSideMenuHandler = (ref, setToggle) => {
 	useEffect(() => {
