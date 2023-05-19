@@ -5,15 +5,15 @@ import './App.css';
 import UserInfo from './Pages/UserInfo';
 
 function App() {
-	//Declaring data as useState so that it can be passed on to multiple components
+	
 	const [data, setData] = useState([]);
-	//keeping track of the selected id from the list
+
 	const [selectedId, setSelectedId] = useState(1);
 	return (
 		<Router>
 			<div className='App'>
 				<Routes>
-					{/* Routing the Home page and userInfo page with the required Data */}
+
 					<Route
 						exact
 						path='/'
