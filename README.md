@@ -43,3 +43,8 @@ Your app is ready to be deployed!
     "react-scripts": "5.0.1",
     "react-window": "^1.8.8",
     "web-vitals": "^2.1.4"
+
+
+    ### netlify
+
+    https://panorbittaskk.netlify.app/
